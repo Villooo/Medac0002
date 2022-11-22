@@ -1,0 +1,17 @@
+.TituloPrincipal{
+    text-align: center;
+    font-size: 5ch;
+}
+.TituloSecundario{
+    text-align: center;
+    font-size: 4ch;
+}
+
+.tabla{
+margin: 0 auto;
+}
+.Tabla_Caption{
+    text-align: 0 auto;
+    font-size: 3ch;
+}
+
