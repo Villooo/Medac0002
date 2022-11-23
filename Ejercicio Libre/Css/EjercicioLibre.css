@@ -1,0 +1,49 @@
+.TituloPrincipal{
+    text-align: center;
+    font-size: 5ch;
+}
+.TituloSecundario{
+    text-align: center;
+    font-size: 4ch;
+}
+
+.tabla{
+margin: 0 auto;
+}
+
+.Tabla_Caption{
+    text-align: 0 auto;
+    font-size: 3ch;
+}
+
+.TablaTejidos{
+    margin: 0 auto;
+    text-align: center;
+    width: 1500px;
+}
+
+.TablaTejidos tr, .TablaTejidos td{
+    border: 0.0705cm solid black;
+}
+
+.AnchuraDeTejidos {
+    width: 100%;
+   height: auto;
+}
+
+.Unode5{
+    background-color: dodgerblue;
+}
+
+.Dosde5{
+    background-color: darkgreen;
+}
+
+.Tresde5{
+    background-color: darkgoldenrod;
+}
+
+.Cuatrode5{
+    background-color: crimson;
+}
+
